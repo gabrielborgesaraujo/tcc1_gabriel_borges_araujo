@@ -1,0 +1,154 @@
+{
+    "total_apps": 9384,
+    "apps_validos": 583,
+    "apps_invalidos": 8670,
+    "apps_with_100_percent": 583,
+    "apps_with_75_percent": 3893,
+    "apps_with_50_percent": 3446,
+    "apps_with_more_25_percent": 1116,
+    "apps_with_less_25_percent": 215,
+    "apps_sem_tela": 131,
+    "telas_sem_texto": 184,
+    "categorias": [
+        {
+            "nome": "Books & Reference",
+            "qtd_apps_reprovados": 478,
+            "total_apps_na_categoria": 525
+        },
+        {
+            "nome": "Comics",
+            "qtd_apps_reprovados": 275,
+            "total_apps_na_categoria": 313
+        },
+        {
+            "nome": "Health & Fitness",
+            "qtd_apps_reprovados": 404,
+            "total_apps_na_categoria": 435
+        },
+        {
+            "nome": "Social",
+            "qtd_apps_reprovados": 556,
+            "total_apps_na_categoria": 593
+        },
+        {
+            "nome": "Entertainment",
+            "qtd_apps_reprovados": 858,
+            "total_apps_na_categoria": 946
+        },
+        {
+            "nome": "Weather",
+            "qtd_apps_reprovados": 394,
+            "total_apps_na_categoria": 419
+        },
+        {
+            "nome": "Communication",
+            "qtd_apps_reprovados": 552,
+            "total_apps_na_categoria": 592
+        },
+        {
+            "nome": "Sports",
+            "qtd_apps_reprovados": 362,
+            "total_apps_na_categoria": 400
+        },
+        {
+            "nome": "News & Magazines",
+            "qtd_apps_reprovados": 388,
+            "total_apps_na_categoria": 409
+        },
+        {
+            "nome": "Finance",
+            "qtd_apps_reprovados": 380,
+            "total_apps_na_categoria": 407
+        },
+        {
+            "nome": "Shopping",
+            "qtd_apps_reprovados": 418,
+            "total_apps_na_categoria": 433
+        },
+        {
+            "nome": "Education",
+            "qtd_apps_reprovados": 472,
+            "total_apps_na_categoria": 517
+        },
+        {
+            "nome": "Travel & Local",
+            "qtd_apps_reprovados": 405,
+            "total_apps_na_categoria": 433
+        },
+        {
+            "nome": "Business",
+            "qtd_apps_reprovados": 329,
+            "total_apps_na_categoria": 355
+        },
+        {
+            "nome": "Medical",
+            "qtd_apps_reprovados": 266,
+            "total_apps_na_categoria": 298
+        },
+        {
+            "nome": "Beauty",
+            "qtd_apps_reprovados": 91,
+            "total_apps_na_categoria": 98
+        },
+        {
+            "nome": "Food & Drink",
+            "qtd_apps_reprovados": 203,
+            "total_apps_na_categoria": 216
+        },
+        {
+            "nome": "Dating",
+            "qtd_apps_reprovados": 146,
+            "total_apps_na_categoria": 156
+        },
+        {
+            "nome": "Auto & Vehicles",
+            "qtd_apps_reprovados": 116,
+            "total_apps_na_categoria": 125
+        },
+        {
+            "nome": "Music & Audio",
+            "qtd_apps_reprovados": 400,
+            "total_apps_na_categoria": 438
+        },
+        {
+            "nome": "House & Home",
+            "qtd_apps_reprovados": 66,
+            "total_apps_na_categoria": 73
+        },
+        {
+            "nome": "Maps & Navigation",
+            "qtd_apps_reprovados": 242,
+            "total_apps_na_categoria": 259
+        },
+        {
+            "nome": "Lifestyle",
+            "qtd_apps_reprovados": 525,
+            "total_apps_na_categoria": 562
+        },
+        {
+            "nome": "Art & Design",
+            "qtd_apps_reprovados": 65,
+            "total_apps_na_categoria": 74
+        },
+        {
+            "nome": "Parenting",
+            "qtd_apps_reprovados": 98,
+            "total_apps_na_categoria": 100
+        },
+        {
+            "nome": "Events",
+            "qtd_apps_reprovados": 28,
+            "total_apps_na_categoria": 33
+        },
+        {
+            "nome": "Video Players & Editors",
+            "qtd_apps_reprovados": 152,
+            "total_apps_na_categoria": 174
+        },
+        {
+            "nome": "000 - 1",
+            "qtd_apps_reprovados": 1,
+            "total_apps_na_categoria": 1
+        }
+    ]
+}
